@@ -1,0 +1,2 @@
+bbs	wy163	mil,1,5
+bbs	wy163	mil,6,5
