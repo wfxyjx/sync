@@ -1,0 +1,4 @@
+bbs	tiexue	http://bbs.tiexue.net/bbs69-0-1.html
+bbs	tiexue	http://bbs.tiexue.net/bbs32-0-1.html
+bbs	wy163	http://bbs.news.163.com/list/mil.html
+bbs	wy163	http://bbs.news.163.com/list/shishi.html
